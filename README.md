@@ -2,7 +2,7 @@
 
 This Project (a react js with typescript) makes use of handpose model from Mediapipe (@tensorflow-models/handpose) which an only detect a maximum of one hand in the input
 
-# Output (a video)
+# Output (a frame from video)
 ![alt text](public/output.png)
 
 # Getting Started with Create React App
